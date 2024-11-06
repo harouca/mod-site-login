@@ -1,4 +1,4 @@
-# Modelo para site - Módulo de LOGIN
+<h1 align="center"># Modelo para site - Módulo de LOGIN</h1>
 Template para site de login e senha, sendo direcionado a uma landpage caso usuário tenha sucesso de login.
 
 ## Introdução
