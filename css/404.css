@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+.error-container {
+    background-color: #005EB8; /* Azul Pantone */
+    color: #ffffff;
+    height: 200px;
+    width: 100vw; /* Ocupa a largura total da janela*/
+    display: flex;
+    flex-direction: column; /* Centraliza */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.error-container h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.error-container p {
+    margin: 10px 0 0;
+    font-size: 1rem;
+}
